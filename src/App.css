@@ -1,0 +1,24 @@
+.font-link {
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar{
+  text-align: center; 
+}
+
+.terminal{
+  margin-left : 300px;
+  margin-right : 300px;
+
+}
+
+.no-outline:focus {
+  outline: none;
+}
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+}
